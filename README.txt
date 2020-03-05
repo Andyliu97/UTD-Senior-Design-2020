@@ -3,4 +3,4 @@ Install Guide:
 - EJS: npm install ejs --save
 - MongoDB: npm install mongodb --save
 - CSV Parser: npm install csv-parser --save
-
+- Line Reader: npm install line-reader --save
